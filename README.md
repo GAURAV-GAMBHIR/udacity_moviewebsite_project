@@ -26,3 +26,9 @@ in starting imported two file fresh_tomatoes and m.
 fresh_tomatoes.py:- it is downloaded from the link 
 https://raw.githubusercontent.com/adarsh0806/ud036_StarterCode/master/fresh_tomatoes.py
 this is for styles and scripting for the page.
+
+to run this project you need to run the file entertainment_center.py
+then the html file will open... in that you can watch the movie detail
+and whenever you click on the poster it show the trailer of the movie.
+after first time one html file will save,then you can open the website 
+by double clicking on the html file.
